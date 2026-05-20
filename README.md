@@ -25,7 +25,6 @@ I built a live dashboard that helps technicians prioritize service calls and ide
 
 **Built with:** HTML, CSS, JavaScript, Chart.js, GitHub Pages
 
----
 
 ## 📫 Connect
 - 🔗 [Live Dashboard](https://logiclegion.github.io/kiosk-dashboard/)
