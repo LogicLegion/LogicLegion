@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Jean (LogicLegion)
 
-<!--
-**LogicLegion/LogicLegion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Field Technician | Automation Enthusiast | Problem Solver
 
-Here are some ideas to get you started:
+📍 Based in Edmonton, AB | 🇨🇦 Canada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 What I Do
+I maintain 80+ kiosks across Alberta, but I don't just fix hardware—**I build tools to make data work for the team.**
+
+---
+
+## 🚀 Featured Project: Kiosk Intelligence Platform
+
+I built a live dashboard that helps technicians prioritize service calls and identify revenue loss.
+
+🔗 **Live Demo:** [https://logiclegion.github.io/kiosk-dashboard/](https://logiclegion.github.io/kiosk-dashboard/)
+
+**What it does:**
+- 📊 Calculates **daily revenue loss** (currently tracking **$286/day**)
+- 🗺️ Filters data by **province** and **risk level**
+- 📎 Exports to **Power BI** and **Tableau**
+- 🍁 Strictly **Canada-only** data
+
+**Built with:** HTML, CSS, JavaScript, Chart.js, GitHub Pages
+
+---
+
+## 📫 Connect
+- 🔗 [Live Dashboard](https://logiclegion.github.io/kiosk-dashboard/)
+  
