@@ -21,7 +21,6 @@ I built a live dashboard that helps technicians prioritize service calls and ide
 - 📊 Calculates **daily revenue loss** (currently tracking **$286/day**)
 - 🗺️ Filters data by **province** and **risk level**
 - 📎 Exports to **Power BI** and **Tableau**
-- 🍁 Strictly **Canada-only** data
 
 **Built with:** HTML, CSS, JavaScript, Chart.js, GitHub Pages
 
