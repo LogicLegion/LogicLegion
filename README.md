@@ -40,6 +40,5 @@ I didn't wait for permission. I saw a problem and fixed it. Now my team works fa
 
 ## Connect
 
-📧 jjaaluk@gmail.com  
 🔗 [Live Dashboard](https://logiclegion.github.io/kiosk-dashboard/)  
 🔗 [Canada Export Tool](https://logiclegion.github.io/canada-33-export/)
