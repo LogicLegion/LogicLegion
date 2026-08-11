@@ -1,50 +1,69 @@
-👋 I'm Jean (LogicLegion)
+# 👋 I'm Jean (LogicLegion)
 
-Field Technician · Data‑Driven Operations · Tool Builder
+**Field Technician · Data‑Driven Operations · Tool Builder**  
 📍 Edmonton, AB | 🇨🇦 Canada
 
-What I Do
+---
+
+## What I Do
 
 I maintain 80+ kiosks across Alberta, but I don't just fix hardware — I build tools that turn messy CSV data into clear decisions.
 
-My manager didn't ask for the dashboard below. I built it because our reports were hard to read. Now 7+ technicians and management use it daily, and the company is adopting my 33% volume‑based prioritization strategy.
-Featured Project: Kiosk Intelligence Platform
+I built a **suite of operational dashboards**:
+- A full intelligence platform tracking 400+ kiosks across Canada
+- A team tool to prioritise the busiest kiosks per province
+- A personal commitment tracker for my 98% uptime goal
 
-🔗 Live demo: https://logiclegion.github.io/kiosk-dashboard/
-What it does
+I also built and deployed an **AI chatbot** to help field techs get answers faster.
 
-    📊 Calculates daily revenue loss – flagged $47K+ in potential losses
+---
 
-    🗺️ Interactive map + route planner for field technicians
+## Featured Projects
 
-    👔 Executive view + fleet health score for management
+### 📊 Kiosk Intelligence Platform
+**Live demo:** [kiosk-dash.netlify.app](https://kiosk-dash.netlify.app/)
 
-    📈 One‑click export to Power BI and Tableau
+Tracks 400+ kiosks across Canada. Includes interactive map, route planner, revenue loss alerts, and real‑time filtering.  
+**Flagged $47K+ in potential revenue loss.**
 
-    👁️ Visitor counter shows 40–50 weekly views (real team adoption)
+### 🇨🇦 Canada 33% Priority List
+**Live demo:** [canada33.netlify.app](https://canada33.netlify.app/)
 
-    🎯 33% volume priority (High/Mid/Low) – aligns with company's new metric‑driven strategy
+Upload any Canada CSV, get the top 33% busiest kiosks per province. Used by my manager for weekly performance tracking.
 
-    🔒 Security‑reviewed – submitted to internal Security team for company‑wide rollout
+### 🎯 2026 Commitment Tracker
+**Live demo:** [mycommitment.netlify.app](https://mycommitment.netlify.app/)
 
-Why it matters
+Personal dashboard tracking my goal: **98% uptime on top‑volume kiosks** by December 2026.
 
-I didn't wait for permission. I saw a problem and fixed it. Now my team works faster, management has clear visibility, and the company is using my approach to protect revenue on the busiest kiosks first.
+### 🤖 EljaaloukAI
+**Live demo:** [eljaaloukai.onrender.com](https://eljaaloukai.onrender.com/)
 
-I presented this dashboard to leadership, and it's currently under Security review for company‑wide rollout. I've also been identified as a potential tester for new company‑wide software initiatives.
-Other Tools
+Custom AI chatbot (Python/Flask, Render) that helps field technicians query kiosk data using natural language.
 
-🔗 Canada 33% Export Tool – Upload any Canada CSV, get the top 33% busiest kiosks per province. Used by my manager for weekly performance tracking.
-Tech Stack
-Frontend	Backend & Automation	Deployment & Tools
-HTML, CSS, JavaScript	Python (Pandas, automation)	Netlify + GitHub
-Leaflet.js (maps)	SQL (basic queries)	Git version control
-Chart.js (charts)	Power BI, Tableau (export)	VS Code
-GitHub Stats
+---
 
-https://github-readme-stats.vercel.app/api?username=LogicLegion&show_icons=true&theme=dark
-Connect
+## Tech Stack
 
-🔗 Live Dashboard
-🔗 Canada Export Tool
-🔗 LinkedIn (optional)
+| **Frontend** | **Backend & Automation** | **Deployment** |
+| :--- | :--- | :--- |
+| HTML, CSS, JavaScript | Python (Pandas, automation) | Netlify, Render, GitHub Pages |
+| Leaflet.js (maps) | SQL (basic queries) | Git version control |
+| Chart.js (charts) | APIs (OpenAI, etc.) | VS Code |
+
+---
+
+## 📈 GitHub Stats
+
+![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=LogicLegion&show_icons=true&theme=dark)
+
+---
+
+## Connect
+
+- 🔗 [Live Dashboard](https://kiosk-dash.netlify.app/)
+- 🔗 [Canada 33% Tool](https://canada33.netlify.app/)
+- 🔗 [Commitment Tracker](https://mycommitment.netlify.app/)
+- 🔗 [AI Chatbot](https://eljaaloukai.onrender.com/)
+- 🔗 [GitHub: LogicLegion](https://github.com/LogicLegion)
+- 📧 [jjaaluk@gmail.com](mailto:jjaaluk@gmail.com)
