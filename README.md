@@ -66,4 +66,4 @@ Custom AI chatbot (Python/Flask, Render) that helps field technicians query kios
 - 🔗 [Commitment Tracker](https://mycommitment.netlify.app/)
 - 🔗 [AI Chatbot](https://eljaaloukai.onrender.com/)
 - 🔗 [GitHub: LogicLegion](https://github.com/LogicLegion)
-- 📧 [jjaaluk@gmail.com](mailto:jjaaluk@gmail.com)
+  
