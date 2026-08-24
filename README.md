@@ -36,8 +36,8 @@ Upload any Canada CSV, get the top 33% busiest kiosks per province. Used by my m
 
 Personal dashboard tracking my goal: **98% uptime on top‑volume kiosks** by December 2026.
 
-### 🤖 EljaaloukAI
-**Live demo:** [eljaaloukai.onrender.com](https://eljaaloukai.onrender.com/)
+### 🤖 Cypher
+**Live demo:** https://cypher-yaps.onrender.com/
 
 Custom AI chatbot (Python/Flask, Render) that helps field technicians query kiosk data using natural language.
 
@@ -64,6 +64,5 @@ Custom AI chatbot (Python/Flask, Render) that helps field technicians query kios
 - 🔗 [Live Dashboard](https://kiosk-dash.netlify.app/)
 - 🔗 [Canada 33% Tool](https://canada33.netlify.app/)
 - 🔗 [Commitment Tracker](https://mycommitment.netlify.app/)
-- 🔗 [AI Chatbot](https://eljaaloukai.onrender.com/)
-- 🔗 [GitHub: LogicLegion](https://github.com/LogicLegion)
+- 🔗 [AI Chatbot](https://cypher-yaps.onrender.com 🔗 [GitHub: LogicLegion](https://github.com/LogicLegion)
   
